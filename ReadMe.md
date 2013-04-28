@@ -1,7 +1,7 @@
 Java Access Bridge .Net Sample
 ==============================
 
-This is a really basic sample application of how to use the Java Access Bridge in .Net.  It's a VS2010 project that targets .Net 2. It's able to read the entire control hierarchy of a java app and dump it to screen.  For my purposes that's all I needed.  If you're just starting out with the JAB on .Net this should be a good head start for whatever you need to do.
+This is a really basic sample application on how to use the Java Access Bridge in .Net.  It's a VS2010 project that targets .Net 2. It's able to read the entire control hierarchy of a java app and dump it to screen.  For my purposes that's all I needed.  If you're just starting out with the JAB on .Net this should be a good head start for whatever you need to do.
 
 ### To use the sample app: ###
 
